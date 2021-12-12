@@ -1,4 +1,4 @@
-## Hello Wolrd ! 
+## Bem Vindo ! 
 Olá Antônio Muniz aqui !
 
 📚 Cursando Análise e Desenvolvimento de Sistemas
@@ -20,7 +20,7 @@ Olá Antônio Muniz aqui !
   <img align="center" alt="tay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
     <img align="center" alt="tay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
    <br></br> 
-<a href="https://api.whatsapp.com/send?phone=5531995160264" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
+  
 <a href="https://www.linkedin.com/in/ant%C3%B4nio-eust%C3%A1quio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:antonioemj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
