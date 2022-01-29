@@ -4,9 +4,6 @@ Olá Antônio Muniz aqui !
 📚 Cursando Análise e Desenvolvimento de Sistemas
 
 
-👨🏻‍💻 Bem vindo a minha GitHouse Minimalista
-
-
 
 <div> 
     
